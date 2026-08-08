@@ -1,0 +1,20 @@
+{
+  "what-is-keyword-clustering": {
+    "slug": "what-is-keyword-clustering",
+    "title": "What is keyword clustering in SEO?",
+    "primary_topic": "keyword-research",
+    "topic_tags": ["keyword-research", "semantic-clusters"],
+    "concepts": [
+      { "phrase": "keyword clustering", "role": "concept" },
+      { "phrase": "search intent groups", "role": "mechanism" }
+    ],
+    "anchor_phrases": [
+      "keyword clustering",
+      "group keywords by intent",
+      "semantic keyword groups"
+    ],
+    "not_about": ["paid search bidding", "social media hashtags"],
+    "summary_one_line": "Explains how to group keywords by intent for content planning.",
+    "content_quality": "full"
+  }
+}

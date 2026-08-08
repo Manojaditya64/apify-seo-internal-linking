@@ -1,0 +1,7 @@
+.env
+data/urls.txt
+data/blog-profiles.json
+data/crawl-results-*.json
+__pycache__/
+*.pyc
+.venv/
