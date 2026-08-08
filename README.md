@@ -4,7 +4,7 @@ Python scripts that batch-crawl blog URLs with the [scrapegraph-deepseek](https:
 
 **Flow:** URL list → Apify Actor (`blog_profile` preset) → merge profiles → (separate Node linker) suggest verbatim anchors per draft.
 
-Companion article: [How we built an Apify Actor for blog profiling and internal link suggestions](https://github.com/Manojaditya64/apify-seo-internal-linking) (Apify Content Program draft in `apify-article-seo-internal-linking.md`).
+Companion article draft: `apify-article-seo-internal-linking.md` in the Apify Content Program repo notes.
 
 ## Setup
 
